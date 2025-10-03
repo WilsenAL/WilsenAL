@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WilsenAL
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning Java anda C
-- 📫 How to reach me : Email : wilsenangelo@gmail.com / IG : @wilsenangeloo
+- 📫 How to reach me : Email : wilsen1823@gmail.com / IG : @wilsenangeloo
 
 <!---
 WilsenAL/WilsenAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
